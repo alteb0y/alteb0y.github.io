@@ -30,17 +30,17 @@
     <h2>Featured Projects</h2>
 
     <div class="project">
-      <h3><a href="https://github.com/alteb0y/ATP-Match-Prediction" target="_blank">🎾 ATP Match Prediction</a></h3>
+      <h3><a href="https://colab.research.google.com/drive/1-DwjXNaVlOD-57IDLZctsSkeTqF6ZBUv#scrollTo=eOIlSHhvgC-r" target="_blank">🎾 ATP Match Prediction</a></h3>
       <p>End-to-end ML system predicting ATP tennis match outcomes using player stats, rankings, and surfaces.</p>
     </div>
 
     <div class="project">
-      <h3><a href="https://github.com/alteb0y/Fake-News-Detection" target="_blank">📰 Fake News Detection (NLP)</a></h3>
+      <h3><a href="https://colab.research.google.com/drive/15qvuI4tB4uvdNWLuli6U7BmYoMfOCTgL" target="_blank">📰 Fake News Detection (NLP)</a></h3>
       <p>NLP pipeline using TF-IDF and transformers to classify real vs fake news articles.</p>
     </div>
 
     <div class="project">
-      <h3><a href="https://github.com/alteb0y/Churn-Prediction" target="_blank">📊 Customer Churn Prediction</a></h3>
+      <h3><a href="https://colab.research.google.com/drive/1IKj8JWnsgIKKAOWYaAhcJPFp1pymet_p" target="_blank">📊 Customer Churn Prediction</a></h3>
       <p>Predicting telecom customer churn using feature engineering + XGBoost, with deployment.</p>
     </div>
   </section>
